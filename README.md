@@ -17,13 +17,21 @@ Note: Avoid repetitive commands to prevent latency and unexpected behavior. Wait
 Available Controls within Sorting Visualizer:
 
 Press 0 to generate a new randomized list.
+
 Press 1 for Selection Sort.
+
 Press 2 for Insertion Sort.
+
 Press 3 for Bubble Sort.
+
 Press 4 for Merge Sort.
+
 Press 5 for Quick Sort.
+
 Press 6 for Heap Sort.
+
 Press q to exit Sorting Visualizer.
+
 Visual Samples:
 
 
